@@ -1,0 +1,29 @@
+# > name: Name of your Dev Tool
+# > weight: Describes how good you know the tool - values from 1 up to 5
+#
+# Example of a Dev Tool
+# - name: Git
+#   weight: 5
+
+# HW
+
+- name: Arduino
+  weight: 5
+
+- name: Raspberry Pi
+  weight: 1
+
+- name: Beacon
+  weight: 3
+
+- name: 8051 Microprocessor
+  weight: 3
+
+- name: RF communication
+  weight: 1
+
+- name: FPGA
+  weight: 1
+
+- name: Motor control
+  weight: 4

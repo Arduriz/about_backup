@@ -1,0 +1,65 @@
+# > title: Name of your timeline entry, university or work place
+# > title-url: Link to your timeline entry, university or work place
+# > date: Time span
+# > subtitle: The description under the title
+# > tags: List of tags you want to associate with the entry
+# > timeline-side: The side on which you want to display the entry: left or right
+
+# Example of a timeline entry
+# - title: airbnb
+#   title-url: https://example.com/
+#   date: Sep 2019 - Present
+#   subtitle: Fullstack Developer
+#   tags:
+#     - tag: React
+#     - tag: Javascript
+#     - tag: Ruby
+#     - tag: Rails
+#   timeline-side: right
+
+- title: ROKAF
+  title-url: https://rokaf.airforce.mil.kr/sites/airforce/index.do
+  date: Apr. 2023 - Jan. 2025
+  subtitle: 대한민국 공군 통신전자전기
+  timeline-side: left
+
+- title: Barami
+  title-url: https://ibarami.com/
+  date: 2021 - Present
+  subtitle: 한양대학교 전기전자컴퓨터 학술동아리로 전자 및 컴퓨터 분야 학술교류와 각종 팀 프로젝트를 주된 활동으로 하고 있음 <br> 2022년도 29기 회장 경력이 있음. <br> <br> 작품 출품 내역 <br> - 원격으로 조작하는 스탠드형 개인 모니터 <br> - Beacon을 이용한 위치추적과 자율주행 자동차
+  tags:
+    - tag: Arduino
+    - tag: Raspberry Pi
+    - tag: Beacon
+    - tag: RF communication
+    - tag: Motor control
+  timeline-side: right
+
+- title: Hanyang Univ. EE
+  title-url: http://electronic.hanyang.ac.kr/eng/main/index.php
+  date: 2021 - Present
+  subtitle: Undergraduate, Leave of Absence
+  tags:
+    - tag: Undergraduate level
+    - tag: Electronic/Electrical
+    - tag: Semiconductor
+    - tag: Circuit
+    - tag: Programming
+    - tag: Communication
+    - tag: Theory
+  timeline-side: left
+
+- title: COM.MA
+  title-url: https://blog.naver.com/commu_major
+  date: Sep. 2021 - Jun. 2022
+  subtitle: 전공강연 연합동아리 COMmunication with MAjor <br> 중•고등학교 학생들을 대상으로 전공을 소개하며 멘토링을 진행함. <br> 특히 "4차 산업혁명에 필수적인 실내 위치 측정"이라는 주제로 심화강연을 진행함. <br> 22-1 운영진(팀장)을 하며 조를 이끌고 강연 컨택을 진행함. 
+  timeline-side: right
+
+- title: GDSC Hanyang
+  title-url: 
+  date: Sep. 2021 - Jun. 2022
+  subtitle: Python Study 진행
+  tags:
+    - tag: Python
+  timeline-side: right
+

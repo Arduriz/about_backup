@@ -1,0 +1,39 @@
+# > name: Name of your project
+# > descr: Description of your project
+# > demo: Link to your project
+# > tags: List of technologies you used in your projects
+#
+# Example of a project
+# - name: project X
+#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+#   demo: https://example.com/
+#   tags:
+#     - tag: MongoDB
+#     - tag: Express
+#     - tag: AngularJS
+#     - tag: Node
+
+- name: 원격으로 조작하는 스탠드형 개인 모니터
+  descr: "LG 전자의 \"스탠바이미\"라는 스탠드형 개인 모니터를 개선하여 3D printing으로 Flame을 제작하였다. <br> 그 후 Arduino, Raspberry Pi & openCV를 이용해서 Movement & Elevation, Pan & Tilt 기능을 추가하고 Web UI로 조작을 간편하게 한 프로젝트이다."
+  demo: https://github.com/Arduriz/StandByMe
+  tags:
+    - tag: Arduino
+    - tag: Raspberry Pi
+    - tag: openCV
+    - tag: Python
+    - tag: 3D printing
+
+- name: Beacon을 이용한 위치추적과 자율주행 자동차
+  descr: "Arduino를 이용하여 자율주행 자동차와 컨트롤러를 제작하고, <br> Beacon들의 RSSI값을 SCAN하여 자동차의 위치를 추적한 프로젝트이다."
+  demo: https://hyu-barami.github.io/posts/LocationTracking-Beacon_AutonomousVehicle/
+  tags:
+    - tag: Arduino
+    - tag: Beacon
+    - tag: BoT-CLE310
+
+- name: Among us 오토마타
+  descr: "Among Earth팀이 한양대 공학입문설계 수업에서 제작한 Among us 구현 오토마타 중 카드 인식 미션과 임포스터 감지 및 조명을 구현한 부분이다. <br> (\"제7회 공과대학장배 공학입문설계경진대회 Automata 분야\"에서 장려상 수상)"
+  demo: https://github.com/Arduriz/Among_Us
+  tags:
+    - tag: Arduino
+    - tag: Inkscape
